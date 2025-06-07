@@ -1,6 +1,6 @@
 # MMDA at LPS 2025
 
-This page highlights presentations and posters contributed by MMDA researchers at the Living Planet Symposium 2025.
+This page highlights presentations and posters contributed by [Department of Mathematical Modelling and Data Analysis (MMDA)](https://mmda.ipt.kpi.ua/) researchers at the Living Planet Symposium 2025.
 
 We are organizators of the "F.05.03 Tracking conflict impacts: Earth Observation for socio-economic resilience and global policy support" section.
 
