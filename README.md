@@ -1,4 +1,4 @@
-# MMDA at LPS 2025
+# [MMDA at LPS 2025](https://ipt-mmda.github.io/Living_Planet_Symposium_2025/)
 
 This page highlights presentations and posters contributed by [Department of Mathematical Modelling and Data Analysis (MMDA)](https://mmda.ipt.kpi.ua/) researchers at the Living Planet Symposium 2025.
 
