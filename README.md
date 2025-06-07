@@ -2,12 +2,12 @@
 
 This page highlights presentations and posters contributed by [Department of Mathematical Modelling and Data Analysis (MMDA)](https://mmda.ipt.kpi.ua/) researchers at the Living Planet Symposium 2025.
 
-We are organizators of the "F.05.03 Tracking conflict impacts: Earth Observation for socio-economic resilience and global policy support" section.
+We are organizators of the "**F.05.03 Tracking conflict impacts: Earth Observation for socio-economic resilience and global policy support**" section.
 
 ____
 ## 📢 Presentations
 
-**F.05.03 Tracking conflict impacts: Earth Observation for socio-economic resilience and global policysupport**, 
+**F.05.03 Tracking conflict impacts: Earth Observation for socio-economic resilience and global policy support**, 
 Friday, 27 June 14:30-16:00, [Link](https://lps25.esa.int/programme/programme-session/?id=23447350-6132-40FF-9020-FAC1500C728A)
 
 | Name | Title | Link |
