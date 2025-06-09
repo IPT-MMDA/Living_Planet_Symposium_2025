@@ -1,8 +1,8 @@
-# [MMDA at LPS 2025](https://ipt-mmda.github.io/Living_Planet_Symposium_2025/)
+# [MMDA & GEOG UMD at LPS 2025](https://ipt-mmda.github.io/Living_Planet_Symposium_2025/)
 
-This page highlights presentations and posters contributed by [Department of Mathematical Modelling and Data Analysis (MMDA)](https://mmda.ipt.kpi.ua/) researchers at the Living Planet Symposium 2025.
+This page highlights presentations and posters contributed by [Department of Mathematical Modelling and Data Analysis (MMDA)](https://mmda.ipt.kpi.ua/) and [Department of Geographical Sciences of University of Meryland (GEOG UMD)](https://geog.umd.edu/) researchers at the [Living Planet Symposium 2025](https://lps25.esa.int/).
 
-We are organizators of the "**F.05.03 Tracking conflict impacts: Earth Observation for socio-economic resilience and global policy support**" section.
+We are organizators of the ["**F.05.03 Tracking conflict impacts: Earth Observation for socio-economic resilience and global policy support**"](https://lps25.esa.int/programme/programme-session/?id=23447350-6132-40FF-9020-FAC1500C728A) section.
 
 ____
 ## 📢 Presentations
@@ -44,5 +44,3 @@ Friday, 27 June 13:00-14:30, [Link](https://lps25.esa.int/programme/programme-se
 **Contact us:** 
 Nataliia Kussul
 [kussul@umd.edu](kussul@umd.edu)
-
-Overview of MMDA presentations and posters at the ESA Living Planet Symposium 2025 in Vienna.
